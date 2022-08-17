@@ -1,0 +1,15 @@
+filelock
+future
+numpy
+pandas
+pytorch-transformers
+regex
+sacremoses
+scikit-learn
+scipy
+sentencepiece
+six
+tensorboardX
+torch
+tqdm
+transformers==2.1.1
